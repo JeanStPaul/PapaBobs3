@@ -2,7 +2,7 @@
 ======================================
 
 1. Using the "maintenance driven" approach to building
-   and application, create all the necessary projects
+   an application, create all the necessary projects
    to adequately separate concerns: presentation,
    domain, persistence.  Also, use data transfer
    objects to communicate between layers.
